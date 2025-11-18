@@ -1070,7 +1070,7 @@ export default function OpsDocumentation() {
       <div className="bg-gray-900 border-t border-gray-800 px-6 py-6 mt-12">
         <div className="max-w-7xl mx-auto text-center text-sm text-gray-500">
           <p>NEO Operations Dashboard Documentation • Version 1.0 • Last Updated: November 2025</p>
-          <p className="mt-2">For questions, contact the development team</p>
+         
         </div>
       </div>
     </div>
